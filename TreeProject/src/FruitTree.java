@@ -1,0 +1,5 @@
+class FruitTree extends Tree
+{
+	
+}
+
